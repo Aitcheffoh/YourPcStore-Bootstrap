@@ -1,0 +1,23 @@
+
+#navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    margin-top: -60px;
+}
+.fa-magnifying-glass{
+    font-size: 1.5em;
+}
+.fa-user-astronaut{
+    font-size: 1.5em;
+}
+#carouselExampleControls{
+    margin-top: 60px;
+    width: 100%;
+    height: 80% !important;
+    background: black;
+}
+.carousel-item img{
+    height: 100%;
+    width: 100%;
+}
